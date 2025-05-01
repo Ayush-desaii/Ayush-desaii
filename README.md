@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aayushdesai1020@gmail.com**
 
-- 📄 Know about my experiences [resume.c](resume.c)
+- 📄 Know about my experiences [resume.c](resume.pdf)
 
 - ⚡ Fun fact **i like everything**
 
