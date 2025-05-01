@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **ayushdesai1210@gmail.com**
+- 📫 How to reach me **aayushdesai1020@gmail.com**
 
 - 📄 Know about my experiences [resume.c](resume.c)
 
